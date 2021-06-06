@@ -1,8 +1,9 @@
-# results-pro-edge
+# results-pro-edge![firefox_R1gXrt25jj](https://user-images.githubusercontent.com/43553695/120933824-92723480-c719-11eb-9b89-05b06dfe0123.png)
+
 
 Perequisites to run this project:
-Software: Vs code, Node js
-The node modules of the project needs to installed after adding the folders frontend and  backend to the vs code workspace using command: "npm install". Now to run the project get into both the directories in seperate terminals using command: "npm start".
+1. Software: Vs code, Node js
+2. The node modules of the project needs to installed after adding the folders frontend and  backend to the vs code workspace using command: "npm install". Now to run the project get into both the directories in seperate terminals using command: "npm start".
 
 Componets of frontend:
 1. App.js: Search.js component runs from here.
