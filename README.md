@@ -1,4 +1,4 @@
-# results-Proedge![firefox_R1gXrt25jj](https://user-images.githubusercontent.com/43553695/120933824-92723480-c719-11eb-9b89-05b06dfe0123.png)
+# results![firefox_R1gXrt25jj](https://user-images.githubusercontent.com/43553695/120933824-92723480-c719-11eb-9b89-05b06dfe0123.png)
 
 
 Perequisites to run this project:
